@@ -10,5 +10,6 @@ package Entities;
  * @author Mariem
  */
 public class Babysitting {
+private String id;
 	
 }
