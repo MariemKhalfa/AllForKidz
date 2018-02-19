@@ -11,5 +11,6 @@ package Entities;
  */
 public class Babysitting {
 private String id;
+private String nom;
 	
 }
